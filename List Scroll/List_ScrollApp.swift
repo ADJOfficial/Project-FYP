@@ -11,7 +11,7 @@ import SwiftUI
 struct List_ScrollApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Login()
         }
     }
 }
